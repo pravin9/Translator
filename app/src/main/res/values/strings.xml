@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Note Translator</string>
+    <string name="add_text_label">Add Phrases</string>
+    <string name="display_text_label">Display Phrases</string>
+    <string name="edit_text_label">Edit Phrases</string>
+    <string name="language_label">Language Subscription</string>
+    <string name="translator_label">Translate</string>
+    <string name="enter_the_word_or_phrase">Enter the word or phrase</string>
+    <string name="save_label">Save</string>
+    <string name="update_edit">Update</string>
+    <string name="enter_the_text_to_edit">Enter the text to edit</string>
+    <string name="language_translator_apikey">j-EEoQ3g2vcLFxCoQZBfA-muqASE_z6N-JIigOxZoPpG</string>
+    <string name="language_translator_url">https://api.us-south.language-translator.watson.cloud.ibm.com/instances/c2f4bf97-d4c5-4cae-984d-eb2a545fcce6</string>
+    <string name="translate_button">Translate</string>
+    <string name="speak">speak</string>
+    <string name="text_speech_apikey">Y4noHDI9L6w19uye_BzurSCdgPmT9o00r7kBN6bLg6qz</string>
+    <string name="text_speech_url">https://api.us-south.text-to-speech.watson.cloud.ibm.com/instances/b741957a-a381-4497-9e05-601358ad9316</string>
+    <string name="translate_all">Translate All</string>
+    <string name="show_saved">Show Saved</string>
+</resources>
